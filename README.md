@@ -1,4 +1,4 @@
-## wonderfall/rutorrent
+## bishof/torrent
 Originally forked from [Wonderfall/rutorrent](https://github.com/Wonderfall/dockerfiles/tree/master/rutorrent).
 
 #### What is this?
