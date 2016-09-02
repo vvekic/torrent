@@ -1,5 +1,5 @@
 ## wonderfall/rutorrent
-Originally forked from [Wonderfall/rutorrent](https://github.com/Wonderfall/dockerfiles/tree/master/rutorrent.
+Originally forked from [Wonderfall/rutorrent](https://github.com/Wonderfall/dockerfiles/tree/master/rutorrent).
 
 #### What is this?
 This container contains both rtorrent (whis is a BitTorrent client) and rutorrent (which is a front-end for rtorrent). Filebolt is also included, the default behavior is set to create clean symlinks, so media players like Emby/Plex can easily detect your TV shows and movies.
